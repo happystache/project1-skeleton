@@ -3,8 +3,8 @@
 
 /* CSS Variables */
 :root {
-    --primary-font: "Cinzel", sans-serif;
-    --secondary-font: "Quicksand";
+    --primary-font: "Quicksand", sans-serif;
+    --secondary-font: "Cinzel";
     --primary-color: #003153; /* Prussian blue */
     --secondary-color: #0098d4; /* Bavarian blue */
     --highlight-color: #ffcc00; /* blue */
@@ -16,6 +16,15 @@
 body {
     font-family: var(--primary-font);
     padding-top:57.15px; /*pushes the top of the header down under the fiyed navbar*/
+}
+
+#logo {
+    height: 565px;
+    width: 100%;
+    background: url("../images/shorehotel.PNG") no-repeat center center/cover;
+    position: relative;
+    border-spacing: 0;
+    margin-top: 75px;
 }
 
 h1,
@@ -74,7 +83,7 @@ h2 {
 }
 
 #navbar .logo {
-    width: 30px;
+    width: 50px;
 }
 
 /* Header */
@@ -85,13 +94,13 @@ h2 {
 
 /* Services */
 
-#services .card-footer {
+#locations .card-footer {
     font-weight: bold;
     color: var(--highlight-color);
     background-color: transparent;
 }
 
-#services .card {
+#locations .card {
     margin-bottom: 1.5rem;
 }
 
@@ -190,6 +199,10 @@ h2 {
 
   #booking-form .custom-button-filled {
     margin-bottom: 20% ;
+  }
+
+  #submit-button-form {
+    margin-bottom: 20px;
   }
 
 /* Media queries */
