@@ -48,7 +48,7 @@ h2 {
 }
 
 .section {
-    padding-top: 4rem; /*prevent navbar overlap*/
+    padding-top: 2rem; /*prevent navbar overlap*/
 }
 
 /* Buttons */
@@ -154,56 +154,17 @@ h2 {
     background-color: transparent;
 }
 
-/*Events section*/
-
-#events .table-dark * {
-    background-color: transparent;
-    color: black;
+#locations-book {
+    margin-bottom: 23px;  
 }
 
-
-#table .sub-heading-color {
-    display: none;
+#end-div-locations {
+    justify-content: center;
 }
 
-#discount {
-    text-align: center;
-    -ms-flex-item-align: center;
-        -ms-grid-row-align: center;
-        align-self: center;
+#submit-button-form {
+    margin-bottom: 22px;
 }
-
-#discount * {
-    border-radius: 0%;
-    font-size: 90%;
-}
-
-#booknow {
-    margin-top: 20px;
-    text-align: center;
-}
-
-#table tr:hover td {
-    background: var(--highlight-color-light);
-    cursor: pointer;
-  }
-
-#submit2 {
-   
-    text-align: right;
-    margin-right:25px;
-    margin-bottom: 20px;
-   
-    
-  }
-
-  #booking-form .custom-button-filled {
-    margin-bottom: 20% ;
-  }
-
-  #submit-button-form {
-    margin-bottom: 20px;
-  }
 
 /* Media queries */
 
