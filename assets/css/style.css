@@ -104,16 +104,6 @@ h2 {
     margin-bottom: 1.5rem;
 }
 
-/* Game library cards */
-
-#new-games .card,
-#fav-games .card {
-    border: none;
-}
-
-#form-head {
-    display:none;
-}
 
 
 /* Footer / contact */
@@ -135,7 +125,8 @@ h2 {
 #contact i {
     color: var(--secondary-color);
     font-size: 1.2rem;
-    margin-right: 15px;
+    margin-right: 60px;
+    text-align: center;
 }
 
 #contact .social-links i {
@@ -160,6 +151,7 @@ h2 {
 
 #end-div-locations {
     justify-content: center;
+    text-align: center;
 }
 
 #submit-button-form {
