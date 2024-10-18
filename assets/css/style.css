@@ -18,14 +18,18 @@ body {
     padding-top:57.15px; /*pushes the top of the header down under the fiyed navbar*/
 }
 
-#logo {
-    height: 565px;
-    width: 100%;
-    background: url("../images/shorehotel.PNG") no-repeat center center/cover;
-    position: relative;
-    border-spacing: 0;
-    margin-top: 75px;
-}
+
+    #logo2 {
+        align-self: center;
+        margin-top: 0%;
+        padding:0;
+        font:bold;
+    }
+
+    #logo2 > h2 {
+        visibility: hidden;
+        height:0px;
+    }
 
 h1,
 h2,
@@ -122,6 +126,7 @@ h2 {
 
 #contact .sub-heading-color {
     color: var(--highlight-color-light);
+
 }
 
 #contact i {
@@ -160,7 +165,8 @@ h2 {
 
 #submit-button-form {
     margin-bottom: 22px;
-   margin-left: 250px;
+   text-align: center;
+   align-items: center
 }
 
 /* Media queries */
