@@ -113,7 +113,7 @@ h2 {
 #contact {
     background-color: var(--primary-color);
     color: white;
-    padding-bottom: 2rem;
+    
 }
 
 #contact h2 {
@@ -138,6 +138,7 @@ h2 {
     -webkit-transition: color 0.3s ease-in-out;
     -o-transition: color 0.3s ease-in-out;
     transition: color 0.3s ease-in-out;
+    margin: bottom 0;
 }
 
 #contact .social-links i:hover {
