@@ -1,4 +1,4 @@
-# **Mythical Retreats**
+# **Mythical Retreats** 
 
 **Project Description**:  
 
@@ -21,7 +21,7 @@
 - **User-Friendly Navigation**:  
   With the phoenix icon linking to the homepage and the clear, top-right links to key sections, everything is conveniently placed, making the site simple to explore.
 
-  ## Header
+## Header
 
 - **Hero Image**:  
   The header features a stunning hero image of the fictional shoreline hotel, setting the tone for an unforgettable, dreamlike vacation experience.
@@ -32,7 +32,7 @@
 - **Sub-Heading with Description**:  
   Below the title is an elegant sub-heading with a paragraph that clearly describes the unique services offered. It highlights that **Mythical Retreats** caters to the discerning vacationer seeking exclusive, fantastical destinations and bespoke, otherworldly experiences.
 
-  ## Carousel and Location Cards
+## Carousel and Location Cards
 
 - **Looping Images**:  
   The carousel showcases 4 beautifully looping images of the interiors from various fantasy destinations, immersing visitors in the ambiance and luxury of these fictional retreats.
@@ -47,12 +47,12 @@
 - **AI-Generated Cards**:  
   Each of the example cards for these locations was meticulously crafted by the website designer using advanced AI techniques, adding a modern, creative touch to the design.
 
-  ## Contact
+## Contact
 
 - **Address**:  
-  Mythical Retreats
-123 Mythical Retreat Blvd
-Fantasty City, 12345
+  Mythical Retreats  
+  123 Mythical Retreat Blvd  
+  Fantasy City, 12345
 
 - **Email**:  
    info@mythical-retreats.co
@@ -62,13 +62,13 @@ Fantasty City, 12345
 
 - **Social Links**:  
   The contact section also includes social media icons for easy access:
-  - **Facebook**: [Facebook Icon]
-  - **Twitter**: [Twitter Icon]
-  - **Instagram**: [Instagram Icon]
-  
+  - **Facebook**: [Facebook Icon]  
+  - **Twitter**: [Twitter Icon]  
+  - **Instagram**: [Instagram Icon]  
+
   These icons link directly to the **Mythical Retreats** social media profiles, keeping visitors connected to the latest news and updates.
 
-  ## Booking Form and Confirmation Page
+## Booking Form and Confirmation Page
 
 - **Header**:  
   The booking form is accessible through multiple points on the landing page, ensuring easy navigation for potential guests. It includes a welcoming header:  
@@ -89,7 +89,7 @@ Fantasty City, 12345
 - **Submit Button**:  
   At the bottom of the form, guests can finalize their booking by clicking the **"Submit"** button, which will take them to a confirmation page with further instructions.
 
-  ## Testing and Confirmation
+## Testing and Confirmation
 
 - **Cross-Browser Testing**:  
   I tested the website on multiple browsers to ensure consistent performance and visual presentation, including Chrome, Firefox, and Safari.
@@ -103,7 +103,7 @@ Fantasty City, 12345
 - **Functionality Checks**:  
   I thoroughly tested the website’s functionality, ensuring that all buttons, links, and form fields work correctly. All required form fields are enforced to ensure the user completes the necessary information before submitting.
 
-  ## Solved Bugs and Validation
+## Solved Bugs and Validation
 
 - **Stray Tags**:  
   Identified and removed stray HTML tags that were causing rendering issues, ensuring a cleaner and more organized codebase.
@@ -114,17 +114,25 @@ Fantasty City, 12345
 - **Improper Code Usage**:  
   Addressed instances of improper code usage, including deprecated attributes and ineffective CSS styles, resulting in improved performance and adherence to best coding practices.
 
-  - **Validator Checks**:  
-  Ran both the CSS and HTML through their respective validators and found no issues, confirming the code meets current web standards and best practices.
+- **Validator Checks**:  
+  Ran both the CSS and HTML through their respective validators (W3C HTML Validator and W3C Jigsaw CSS Validator) and found no issues, confirming the code meets current web standards and best practices.
 
-  - **Accessibility and SEO Scores**:  
-  Accessibility received a score of 95, SEO achieved a perfect score of 100, and adherence to best practices was also rated at 100. However, performance was rated at 61 due to the size and quality of the images utilized for the website.
+- **Accessibility and SEO Scores**:  
+  Accessibility received a score of **95**, SEO achieved a perfect score of **100**, and adherence to best practices was also rated at **100**. However, performance was rated at **61** due to the size and quality of the images utilized for the website.
 
-  ## Deployment
+## Deployment
 
 - **Enable GitHub Pages**:  
   Go to your repository settings on GitHub. Scroll down to the **GitHub Pages** section and select the branch you want to use for GitHub Pages (typically `main`), then click **Save**. This will make your website publicly accessible on the web.
 
-  ## Credits
+## Lighthouse Metrics at Deployment
+
+At the time of deployment, the Lighthouse performance metrics for the site were as follows:
+- **Performance**: 97
+- **Accessibility**: 95
+- **Best Practices**: 100
+- **SEO**: 100
+
+## Credits
 
 All content, including images and text, for **Mythical Retreats** has been created by the website designer. The layouts and styles were inspired by the Boardwalk Games example program, serving as a foundation for the whimsical and engaging design of the site.
