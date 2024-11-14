@@ -143,7 +143,7 @@ h2 {
     -webkit-transition: color 0.3s ease-in-out;
     -o-transition: color 0.3s ease-in-out;
     transition: color 0.3s ease-in-out;
-    margin: auto;
+    margin: bottom 0;
 }
 
 #contact .social-links i:hover {

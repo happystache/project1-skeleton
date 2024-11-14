@@ -18,6 +18,8 @@
 - **Elegant Navbar Font**:  
   The navigation bar uses a regal and elegant font, giving the site a refined and sophisticated look while guiding users effortlessly through the content.
 
+  ![Navbar](assets/images/snapshot_navbar.png)
+
 - **User-Friendly Navigation**:  
   With the phoenix icon linking to the homepage and the clear, top-right links to key sections, everything is conveniently placed, making the site simple to explore.
 
@@ -37,12 +39,18 @@
 - **Looping Images**:  
   The carousel showcases 4 beautifully looping images of the interiors from various fantasy destinations, immersing visitors in the ambiance and luxury of these fictional retreats.
 
+  ![Carousel section](assets/images/snapshot_carousel.png)
+
 - **Seasonal Locations**:  
   The carousel also highlights **four exclusive locations currently offered for the season**, each with unique pricing and accommodations:
+
+
   1. **The Cliffport** – A futuristic hotel perched above the clouds, offering breathtaking views and high-end amenities.
   2. **The Phantom Palace** – A haunted yet luxurious palace with opulent corridors and ghostly charm.
   3. **Tropic Pods Resort** – Sleek pod rooms nestled in a lush tropical paradise, perfect for relaxation.
   4. **Elderwood Commune** – A peaceful treehouse community hidden within an ancient forest, ideal for reconnecting with nature.
+
+  ![Locations section](assets/images/snapshot_locations.png)
 
 - **AI-Generated Cards**:  
   Each of the example cards for these locations was meticulously crafted by the website designer using advanced AI techniques, adding a modern, creative touch to the design.
@@ -67,6 +75,8 @@
   - **Instagram**: [Instagram Icon]  
 
   These icons link directly to the **Mythical Retreats** social media profiles, keeping visitors connected to the latest news and updates.
+
+  ![Footer contact information](assets/images/snapshot_contact.png)
 
 ## Booking Form and Confirmation Page
 
@@ -93,21 +103,19 @@
 
 - **Cross-Browser Testing**:  
   I tested the website on multiple browsers to ensure consistent performance and visual presentation, including Chrome, Firefox, and Safari.  
-  _**Placeholder: Screenshot showing cross-browser testing results.**_  
-  _Description: Screenshot should depict a side-by-side comparison of the website on different browsers (e.g., Chrome and Firefox), highlighting any design issues or uniformity across platforms._
 
 - **Responsive Design**:  
   I confirmed that the website is fully responsive across devices and adjusted all functions using browser DevTools, ensuring optimal display on desktops, tablets, and mobile devices.  
-  _**Placeholder: Screenshot of the site on mobile view.**_  
-  _Description: Screenshot should showcase the site’s mobile view to demonstrate responsive design adjustments and layout clarity on smaller screens._
+ 
+ ![Mobile view](assets/images/snapshot_mobile.png)
 
 - **Comprehensive User Interface**:  
   I verified that the navigation, header, contact section, and booking form are all clearly readable, easy to use, and provide an excellent user experience.
 
 - **Functionality Checks**:  
   I thoroughly tested the website’s functionality, ensuring that all buttons, links, and form fields work correctly. All required form fields are enforced to ensure the user completes the necessary information before submitting.  
-  _**Placeholder: Screenshot showing functional buttons and form fields.**_  
-  _Description: The screenshot should show a filled-out booking form with functional buttons and highlighted validation/error messages for incomplete fields._
+  
+  ![Form fields working correctly](assets/images/snapshot_bookinginquiry.png)
 
 ## Solved Bugs and Validation
 
