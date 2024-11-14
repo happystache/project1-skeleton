@@ -92,16 +92,22 @@
 ## Testing and Confirmation
 
 - **Cross-Browser Testing**:  
-  I tested the website on multiple browsers to ensure consistent performance and visual presentation, including Chrome, Firefox, and Safari.
+  I tested the website on multiple browsers to ensure consistent performance and visual presentation, including Chrome, Firefox, and Safari.  
+  _**Placeholder: Screenshot showing cross-browser testing results.**_  
+  _Description: Screenshot should depict a side-by-side comparison of the website on different browsers (e.g., Chrome and Firefox), highlighting any design issues or uniformity across platforms._
 
 - **Responsive Design**:  
-  I confirmed that the website is fully responsive across devices and adjusted all functions using browser DevTools, ensuring optimal display on desktops, tablets, and mobile devices.
+  I confirmed that the website is fully responsive across devices and adjusted all functions using browser DevTools, ensuring optimal display on desktops, tablets, and mobile devices.  
+  _**Placeholder: Screenshot of the site on mobile view.**_  
+  _Description: Screenshot should showcase the site’s mobile view to demonstrate responsive design adjustments and layout clarity on smaller screens._
 
 - **Comprehensive User Interface**:  
   I verified that the navigation, header, contact section, and booking form are all clearly readable, easy to use, and provide an excellent user experience.
 
 - **Functionality Checks**:  
-  I thoroughly tested the website’s functionality, ensuring that all buttons, links, and form fields work correctly. All required form fields are enforced to ensure the user completes the necessary information before submitting.
+  I thoroughly tested the website’s functionality, ensuring that all buttons, links, and form fields work correctly. All required form fields are enforced to ensure the user completes the necessary information before submitting.  
+  _**Placeholder: Screenshot showing functional buttons and form fields.**_  
+  _Description: The screenshot should show a filled-out booking form with functional buttons and highlighted validation/error messages for incomplete fields._
 
 ## Solved Bugs and Validation
 
@@ -117,8 +123,9 @@
 - **Validator Checks**:  
   Ran both the CSS and HTML through their respective validators (W3C HTML Validator and W3C Jigsaw CSS Validator) and found no issues, confirming the code meets current web standards and best practices.
 
-- **Accessibility and SEO Scores**:  
-  Accessibility received a score of **95**, SEO achieved a perfect score of **100**, and adherence to best practices was also rated at **100**. However, performance was rated at **61** due to the size and quality of the images utilized for the website.
+  ![W3C CSS Validator](assets/images/snapshot_W3C_CSS_PASS.png)
+
+  ![W3C HTML Validator](assets/images/snapshot_W3C_HTML_PASS.png)
 
 ## Deployment
 
@@ -132,6 +139,8 @@ At the time of deployment, the Lighthouse performance metrics for the site were 
 - **Accessibility**: 95
 - **Best Practices**: 100
 - **SEO**: 100
+
+![Lighthouse results](assets/images/snapshot_lighthouse.png)
 
 ## Credits
 
